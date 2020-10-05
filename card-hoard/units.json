@@ -2,16 +2,19 @@
     {
         "name": "skelly",
         "atk": 2,
-        "def": 1
+        "def": 1,
+        "health": 8
     },
     {
         "name": "slime",
         "atk": 1,
-        "def": 2
+        "def": 2,
+        "health": 6
     },
     {
         "name": "rock",
         "atk": 0,
-        "def": 5
+        "def": 5,
+        "health": 10
     }
 ]
