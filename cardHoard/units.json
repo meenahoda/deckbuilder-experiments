@@ -1,0 +1,17 @@
+[
+    {
+        "name": "skelly",
+        "atk": 2,
+        "def": 1
+    },
+    {
+        "name": "slime",
+        "atk": 1,
+        "def": 2
+    },
+    {
+        "name": "rock",
+        "atk": 0,
+        "def": 5
+    }
+]
